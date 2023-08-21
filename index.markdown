@@ -5,7 +5,10 @@
 layout: home
 ---
 
-![Profile Pic](/assets/images/Mugshot.jpg)
+<img src="/assets/images/Mugshot.jpg" width="200" height="200"
+
 Daniel Yip
+
 Cloud Support Engineering | DevOps | Azure
+
 Based in Singapore
