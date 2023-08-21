@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/assets/images/Mugshot.jpg" width="200" height="200"
+<img src="/assets/images/Mugshot.jpg" width="200" height="200">
 
 Daniel Yip
 
