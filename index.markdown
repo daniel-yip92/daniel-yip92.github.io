@@ -5,4 +5,7 @@
 layout: home
 ---
 
-Testing what happens if i add content
+![Profile Pic](/assets/images/Mugshot.jpg)
+Daniel Yip
+Cloud Support Engineering | DevOps | Azure
+Based in Singapore
