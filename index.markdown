@@ -9,6 +9,6 @@ layout: home
 
 Daniel Yip
 
-Cloud Support Engineering | DevOps | Azure
+Cloud Support Engineering & DevOps
 
 Based in Singapore
