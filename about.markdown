@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am Daniel Yip, an aspiring Cloud Engineer. I believe that in any organisation it is the successful synergy of people and process that creates results. My experiences in people-centric environments allows me to easily connect and understand stakeholder needs to create win-win solutions. I am happy to connect with you to discuss how we can scale your business success through the Cloud together.
+Hi, I am Daniel Yip, an aspiring Cloud Engineer. I believe that in any organisation it is the successful synergy of people and process that creates results. My experiences in people-centric environments allows me to easily connect and understand stakeholder needs to create win-win solutions. I am happy to connect with you to discuss how we can scale your business success through the Cloud together.
 
-[LinkedIn](linkedin.com/in/daniel-yip-4b8426a6) /
+[LinkedIn](https://linkedin.com/in/daniel-yip-4b8426a6) /
 [GitHub](https://github.com/daniel-yip92) /
-[Resme PDF](https://drive.google.com/file/d/1uOsjqCOicZLQ0sk-H7Xps8xkWNPsMwOK/view?usp=drive_link)
+[Resume PDF](https://drive.google.com/file/d/1uOsjqCOicZLQ0sk-H7Xps8xkWNPsMwOK/view?usp=drive_link)
 
 ---
 
